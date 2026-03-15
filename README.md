@@ -47,5 +47,6 @@ These projects are included to demonstrate my skills in dashboard development, d
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com  
-Portfolio: https://selective-rumba-831.notion.site
+LinkedIn: http://linkedin.com/in/fatima-ismayilova-19b7a01aa
+Email: ismayilovafatime0@gmail.com
+Portfolio: [https://selective-rumba-831.notion.site](https://selective-rumba-831.notion.site/Fatima-Ismayilova-Data-Analytics-Portfolio-324bbdcb8415806293ffe0c1abb4c2ed?source=copy_link)
