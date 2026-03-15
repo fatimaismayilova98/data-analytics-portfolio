@@ -24,7 +24,7 @@ This repository contains a collection of **Power BI dashboard projects** develop
 
 HR analytics dashboard analyzing workforce metrics including employee headcount, demographics, and employee satisfaction indicators.
 
-![HR Workforce Analytics](HR Workforce Analytics PNG.png)
+![HR Workforce Analytics](HRWorkforce AnalyticsPNG.png)
 
 ---
 
