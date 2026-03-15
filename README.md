@@ -3,7 +3,9 @@ Fatima Ismayilova
 
 Data Analyst specializing in HR and business analytics using Power BI, Excel, and SQL.
 
-This repository contains data analytics dashboards developed as part of my portfolio projects.
+This repository contains a collection of dashboard projects created using Power BI as part of my learning and portfolio development.
+
+---
 
 ## Projects
 
@@ -34,6 +36,16 @@ Operational analytics dashboard tracking project status, budgets, and project di
 - SQL
 - Data Visualization
 
+---
+
 ## Note
-Some dashboards in this portfolio were developed by following Power BI tutorial videos and learning materials. 
-The purpose of these projects is to practice and demonstrate data analysis, dashboard design, and data visualization skills.
+
+Some dashboards in this repository were created by following Power BI tutorial videos and training exercises.  
+These projects are included to demonstrate my skills in dashboard development, data analysis, and data visualization.
+
+---
+
+## Contact
+
+LinkedIn: https://www.linkedin.com  
+Portfolio: https://selective-rumba-831.notion.site
