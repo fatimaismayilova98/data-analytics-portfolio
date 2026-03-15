@@ -33,3 +33,7 @@ Operational analytics dashboard tracking project status, budgets, and project di
 - Excel
 - SQL
 - Data Visualization
+
+- ## Note
+Some dashboards in this portfolio were developed by following Power BI tutorial videos and learning materials. 
+The purpose of these projects is to practice and demonstrate data analysis, dashboard design, and data visualization skills.
