@@ -32,7 +32,7 @@ HR analytics dashboard analyzing workforce metrics including employee headcount,
 
 Customer analytics dashboard evaluating satisfaction survey responses across brands, locations, and product models.
 
-![Customer Service Survey](Customer survice survey.png)
+![Customer Service Survey](Customersurvicesurvey.png)
 
 ---
 
