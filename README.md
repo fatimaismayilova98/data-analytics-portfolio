@@ -42,7 +42,7 @@ Sales analytics dashboard analyzing revenue, operating profit, sales distributio
 
 Dark version:
 
-![Adidas Dashboard](Adidas dark.png)
+![Adidas Dashboard](Adidasdark.png)
 
 Light version:
 
@@ -62,7 +62,7 @@ Interactive data visualization dashboard exploring global population distributio
 
 Business analytics dashboard analyzing sales performance and cost of goods sold across countries and product segments.
 
-![Sales COGS Dashboard](Sales Cogs.png)
+![Sales COGS Dashboard](SalesCogs.png)
 
 ---
 
@@ -70,18 +70,10 @@ Business analytics dashboard analyzing sales performance and cost of goods sold 
 
 Operational analytics dashboard tracking project status, budgets, expenses, and project distribution across managers and locations.
 
-![Project Management Dashboard](Project management.png)
+![Project Management Dashboard](Projectmanagement.png)
 
 ---
 
-# Portfolio
-
-Full portfolio available here:
-
-Notion Portfolio  
-https://selective-rumba-831.notion.site/Fatima-Ismayilova-Data-Analytics-Portfolio-324bbdcb8415806293ffe0c1abb4c2ed
-
----
 
 # Note
 
