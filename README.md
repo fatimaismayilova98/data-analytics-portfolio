@@ -46,7 +46,7 @@ Dark version:
 
 Light version:
 
-![Adidas Dashboard](Adidas Ligh.png)
+![Adidas Dashboard](AdidasLight.png)
 
 ---
 
